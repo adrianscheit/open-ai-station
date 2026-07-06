@@ -13,6 +13,8 @@ The ultimate goal is to design an affordable, scalable, and fully local alternat
 *   **Right to repair** anyone that will own such station will be welcome and supported (passively) to maintain and fix it forever
 *   **Focus on INT8** it seems like the sweat spot, at the begining, later it could support more formats dependent on the FPGA tests result
 
+![ARCHITECTURE](arch.drawio.svg)
+
 ### 🗺️ Planned Development Phases
 
 The project is structured into clear sequential stages to ensure long-term compatibility and architectural stability:
