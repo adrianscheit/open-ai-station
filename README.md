@@ -11,7 +11,7 @@ The ultimate goal is to design an affordable, scalable, and fully local alternat
 *   **Local Privacy:** The system is intended to operate within a Local Area Network (LAN) via a network module. Local AI agents and desktop software can interact with the accelerator through a standard web API, keeping all data private and secure. The web interface will also be used for configuration, firmware updates, and a simple integrated chatbot feature.
 *   **Healthy Market Competition:** By licensing the architecture under open-source terms, the goal is to allow any manufacturer to produce and sell these modules freely, forcing low consumer prices and high quality through open market competition.
 *   **Right to repair** anyone that will own such station will be welcome and supported (passively) to maintain and fix it forever
-*   **Focus on INT8** it seems like the sweat spot, at the begining, later it could support more formats dependent on the FPGA tests result
+*   **Focus on INT8 AND LLM's** it seems like the sweat spot, at the begining, later it could support more formats dependent on the FPGA tests result, and more operations but tensors multiplication is good enough for most local LLM's
 
 ![ARCHITECTURE](arch.drawio.svg)
 
