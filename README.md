@@ -2,7 +2,9 @@
 
 This repository contains an early-stage concept and proposal for an open-source modular AI hardware accelerator ecosystem. The project is currently in the ideation phase.
 
-The ultimate goal is to design an affordable, scalable, and fully local alternative for running AI models and autonomous AI agents directly on a desktop or inside an office.
+The ultimate goal is to design an affordable, scalable, and fully local alternative for running AI models directly on a desktop or inside an office.
+
+OPEN means open hardware, open software, modular, compatible, repariable, DIY supportive.
 
 ### 🎯 Project Goals
 
